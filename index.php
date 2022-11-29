@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 include('./include/config.inc.php');
 
 $keres = current($oldalak);
