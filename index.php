@@ -1,11 +1,16 @@
-<!DOCTYPE html>
+<?php
+include('./include/config.inc.php');
 
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta charset="utf-8" />
-    <title>fasz</title>
-</head>
-<body>
+$keres = current($oldalak);
+if (isset($_GET['oldal'])) {
+	if (isset($oldalak[$_GET['oldal']]) && file_exists("./template/oldalak/{$oldalak[$_GET['oldal']]['fajl']}.tpl.php")) {
+		$keres = $oldalak[$_GET['oldal']];
+	}
+	else { 
+		$keres = $hiba_oldal;
+		header("HTTP/1.0 404 Not Found");
+	}
+}
 
-</body>
-</html>
+include('./template/index.tpl.php'); 
+?>
