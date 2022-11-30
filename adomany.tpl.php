@@ -1,9 +1,7 @@
 
 <div id="adomany">
-<p>Örömmel fogadunk minden adományt</p>
+<p>Örömmel fogadunk minen adományt</p>
 <p>Az adományok teljes egészét négylábúinkra költjük hiszen lakhatásuk és élelmezésük számok növekedésével egyre nagyobb összeget emészt fel.</p>
-<iframe width="600" height="350" src="https://www.youtube.com/watch?v=2YZgHJOTcKE" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <h3>Amit bármikor szívesen fogadunk</h3>
 <ul>
 <li>Száraz táp</li>
