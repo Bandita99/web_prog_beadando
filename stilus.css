@@ -10,7 +10,7 @@ body {
 }
 
 header {
-background-color:white;
+background-color: white;
 color: black;
 }
 header div#be{
@@ -32,7 +32,7 @@ body img {
     height: 100px;
 }
 div#menu{
- background-color: white;
+ background-color: #ADD8E6;
  width: 100%;
  padding: 0;
 }
@@ -46,7 +46,7 @@ nav{
 }
 
 nav ul {
-    float: left;
+    float: center;
     width: 100%; 
     padding:0;
     height: 100px;
@@ -56,7 +56,7 @@ nav ul {
 
 nav ul li a {
      
-    float:left;
+    float:center;
     width: 7em;
     text-decoration:none; 
     color:black;
@@ -241,20 +241,20 @@ padding: 20px;
   text-decoration: none;
 }
 .btn:hover{
-  background-color: gray;
+  background-color: white;
 }
 .btn2:hover{
-  background-color: gray;
+  background-color: white;
 }
 .btn2:disabled{
-  background-color: gray;
+  background-color: white;
 }
 
 #btn2:hover{
-  background-color: gray;
+  background-color: white;
 }
 .custom-file-upload:hover{
-  background-color: gray;
+  background-color: white;
 }
 .btn2{
   width: 100px;
@@ -340,9 +340,9 @@ textarea{
   margin-bottom: 15px;
 }
 header img{
- width: 206px;
- height: 95px;
- margin-top: 15px;
+ width: 800px;
+ height: 110px;
+ margin-top: 0px;
 }
 li{
   list-style: none;
