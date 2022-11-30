@@ -24,9 +24,12 @@ div#galeria {margin: 0 auto; width: 1200px;
         div.kep img { width: 150px; }
         div.kep img {border-radius: 5%;}
 body img {
+    
     float: right;
     margin: 0px;
     position: static;
+    width: 150px;
+    height: 100px;
 }
 div#menu{
  background-color: white;
