@@ -5,7 +5,7 @@
         <input  type="hidden" name="max_file_size" value="110000">
        
             
-            <label for="file-upload" class="custom-file-upload">Fájlok kiválasztása
+            <label for="file-upload" class="custom-file-upload">Fájlok kiválasztása  
             <input  id="file-upload" type="file" name="fajlok[]" accept="image/png, image/jpeg" multiple required>
         </label>
        
