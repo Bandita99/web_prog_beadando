@@ -1,6 +1,6 @@
 <div id="cimlap">
 <h1> 
-Kedves Sétáltatók, Látogatók és leendő Gazdik!
+<center>Kedves Sétáltatók, Látogatók és leendő Gazdik!</center>
 </h1>
 <br><br><br><br>
  <center>
@@ -8,11 +8,8 @@ Kedves Sétáltatók, Látogatók és leendő Gazdik!
 <source src="./videos/video1.mp4" type="video/mp4">
 
 </video>
-<br>
-<br>
-<br>
-<br>
-  
+<br><br><br><br>
+
 </center>
 
 <center>

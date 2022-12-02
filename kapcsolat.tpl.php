@@ -1,4 +1,6 @@
 
+
+<center>
 <form class='login-box' onsubmit='return ellenoriz();' method='post' action='?oldal=elkuld'>
        <div class='textbox2'>
 <label>Email:</label> <input id='email' name='email' type='text' placeholder='E-mail'>
@@ -14,3 +16,4 @@ Tárgy: <input id="subject" name='subject' type='text' placeholder='Tárgy'>
 <button class='btn2' onclick='ellenoriz();' type='button'>Ellenőriz</button>
 </div>
 </form>
+</center>

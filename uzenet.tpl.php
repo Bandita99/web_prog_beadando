@@ -1,9 +1,9 @@
 
 <?php
 $servername = "localhost";
-$username = "beadando1234";
-$password = "beadando1234";
-$dbname = "beadando1234";
+$username = "acsernus";
+$password = "Jelszav123?";
+$dbname = "acsernus";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -25,7 +25,6 @@ if ($rows > 0) {
   for ($i=0; $i<$rows; $i++) {
     $row = $result->fetch_assoc();
     
-   
 
 if ($i%2==0) {
     echo "<tr class=\"paratlan\"><td>".($i+1)."</td><td>".$row["user"]."</td><td>".$row["email"]."</td><td>".$row["subject"]."</td><td>".$row["message"]."</td><td>".$row["date"]."</td></tr>";

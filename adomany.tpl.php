@@ -1,7 +1,9 @@
 
 <div id="adomany">
-<p>Örömmel fogadunk minen adományt</p>
+<center>
+<p>Örömmel fogadunk minden adományt</p>
 <p>Az adományok teljes egészét négylábúinkra költjük hiszen lakhatásuk és élelmezésük számok növekedésével egyre nagyobb összeget emészt fel.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2YZgHJOTcKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3>Amit bármikor szívesen fogadunk</h3>
 <ul>
 <li>Száraz táp</li>
@@ -19,3 +21,4 @@
 <h3>Nagyon köszönjük, hogy gondolsz ránk.</h3>
 <h3>Kérjük támogassa adója 1%-ával az Eb Árvaház Nonprofit Egyesületet! Adószámunk: 18524105-1-41</h3> 
 </div>
+</center>

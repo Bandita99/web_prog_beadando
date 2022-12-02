@@ -1,17 +1,19 @@
 
     <div id="galeria">
+	<center>
     <h1>Galéria</h1>
     <form id="kapcsolat" action="?oldal=galeria" method="post" enctype="multipart/form-data">
         <input  type="hidden" name="max_file_size" value="110000">
        
             
-            <label for="file-upload" class="custom-file-upload">Fájlok kiválasztása  
+            <label for="file-upload" class="custom-file-upload">Fájlok kiválasztása
             <input  id="file-upload" type="file" name="fajlok[]" accept="image/png, image/jpeg" multiple required>
         </label>
        
         <input class="btn2" type="submit" name="kuld">
         
       </form>
+	</center>
     <?php
     if (!empty($uzenet))
     {
